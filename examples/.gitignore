@@ -1,0 +1,8 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+dev
+k3.lic
+k4.lic
+hide.tf
+terraform.tfvars
